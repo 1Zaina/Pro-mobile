@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">message</string>
+    <string name="message_input_desc">Message input field</string>
+    <string name="send_button_desc">Send message button</string>
+    <string name="message_hint">Ecrire ton message</string>
+    <string name="user_image">User Image</string>
+    <string name="online_status">Online Status</string>
+    <string name="call_icon">Call Icon</string>
+    <string name="more_options">More Options</string>
+    <string name="en_ligne">En ligne</string>
+    <string name="ahmed_chawi">Ahmed Chawi</string>
+</resources>
